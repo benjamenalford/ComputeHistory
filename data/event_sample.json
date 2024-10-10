@@ -1,0 +1,11 @@
+{
+  id:1,
+  title:"demo",
+  year: 0,
+  date: "",
+  description: "",
+  urls: [],
+  related_events: [],
+  people_involved: [],
+  tags: []
+}
